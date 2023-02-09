@@ -1,0 +1,9 @@
+name: stremlit_template
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-forge::pip=22.2.2
+  - conda-forge::pip-tools=6.6.2
+  - python=3.8
+  - setuptools=58.0.4
